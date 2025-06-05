@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.ns", "dom", "esnext"],
+    "strict": true,
+    "target": "esnext"
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  },
+  "fmt": {
+    "lineWidth": 80,
+    "indentWidth": 2
+  }
+}
